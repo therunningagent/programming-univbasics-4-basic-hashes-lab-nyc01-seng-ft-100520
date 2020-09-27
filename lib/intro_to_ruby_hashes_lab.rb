@@ -1,6 +1,10 @@
 def new_hash
   # return an empty hash
+<<<<<<< HEAD
   {} 
+=======
+  new_hash.new
+>>>>>>> 84a1e8220a04e6c63dc5aa046c2a96016a29751a
 end
 
 def my_hash
